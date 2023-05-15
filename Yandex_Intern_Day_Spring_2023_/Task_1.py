@@ -71,4 +71,5 @@ def call(weekday, days):
 if __name__ == '__main__':
     call('Sunday', 28)
     call('Sunday', 31)
+    call('Wednesday', 30)
 
