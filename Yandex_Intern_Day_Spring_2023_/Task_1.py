@@ -69,7 +69,7 @@ def call(weekday, days):
     print(*out)
 
 if __name__ == '__main__':
-    call('Sunday', 28)
-    call('Sunday', 31)
-    call('Wednesday', 30)
+   
+    call('Thursday', 30)
+
 
